@@ -1,0 +1,52 @@
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+  }
+
+  
+  div {
+    
+    width: 400px;
+    background-image: url(./imagem/tipos-de-flores-amor-perfeito.webp);
+    background-size: cover;
+    border: solid 20px #8a2be2;
+    box-shadow: inset 5px 5px 5px 5px red;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    margin-top: 40px;
+    outline-width: 20px;
+    outline-style: double;
+    outline-color: #ae1172;
+    text-align: center;
+    
+  }
+  
+  p {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 120px;
+  }
+  
+  h1 {
+    color:pink;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    padding: 2%;
+    text-align: center;
+    
+  }
+  
+  footer {
+    color: #ae1172;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding: 5%;
+    text-align: center;
+  }
